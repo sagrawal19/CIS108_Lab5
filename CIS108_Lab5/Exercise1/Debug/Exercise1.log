@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  MusicDB.cpp
+c:\users\siban\source\repos\cis108_lab5\exercise1\musicdb.cpp(48): warning C4101: 'a': unreferenced local variable
+  Generating Code...
+  Exercise1.vcxproj -> C:\Users\siban\source\repos\CIS108_Lab5\Debug\Exercise1.exe
